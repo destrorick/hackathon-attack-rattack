@@ -1,0 +1,7 @@
+{
+  "title": "Short description of the issue",
+  "description": "What you found, how you found it, and how to reproduce it.",
+  "proposed_fix": "How the create team could fix this.",
+  "classification": "critical | high | medium | low | informational",
+  "verdict": "real_threat | not_a_threat | pending_review"
+}
